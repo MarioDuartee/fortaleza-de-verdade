@@ -1,158 +1,74 @@
-🌴 Fortaleza de Verdade
+<h1 align="center">🌴 FORTALEZA DE VERDADE</h1>
 
-Um guia digital dedicado a explorar Fortaleza, Ceará, reunindo pontos turísticos, história, cultura, gastronomia, compras e experiências que ajudam moradores e visitantes a conhecer melhor a cidade.
+<p align="center">
+  <b>Um guia digital para descobrir Fortaleza, Ceará, para além dos cartões-postais.</b><br>
+  Pontos turísticos, história, cultura, gastronomia, compras e experiências, para moradores e visitantes.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
-<br><br><br>
-📍 Sobre o projeto
+<p align="center">
+  <b>🌐 Acesse:</b> <a href="https://marioduartee.github.io/fortaleza-de-verdade/">https://marioduartee.github.io/fortaleza-de-verdade/</a>
+</p>
 
-O Fortaleza de Verdade é um site informativo e turístico que apresenta diferentes aspectos da capital cearense. A proposta é ir além dos destinos mais conhecidos, trazendo curiosidades históricas, lugares para visitar, opções de lazer, polos gastronômicos e informações sobre a Fortaleza contemporânea.
+---
 
-O conteúdo é organizado por temas, facilitando a navegação e permitindo que o visitante descubra a cidade de maneira prática e intuitiva.
+## 📍 SOBRE
 
+O **Fortaleza de Verdade** é um site informativo e turístico, organizado por temas, que reúne curiosidades históricas, lugares para visitar, lazer, gastronomia e a Fortaleza de hoje, de forma prática e intuitiva.
 
+---
 
+## 🗺️ O QUE TEM NO SITE
 
+| Tema | Conteúdo |
+|---|---|
+| 🏛️ **Pontos turísticos** | Catedral, Theatro José de Alencar, Cineteatro São Luiz, Fortaleza de N. S. da Assunção, Dragão do Mar, Ponte dos Ingleses |
+| 📚 **Origem e história** | Nome e brasão, Praça dos Mártires, Iracema, seca, Terra da Luz, retirantes, maresia da Praia do Futuro |
+| 🛍️ **Compras e feiras** | Mercado Central, Emcetur, Centro Fashion, Feirinha de Artesanato, Feira da Madrugada |
+| 🌊 **O que fazer** | Espigões, quiosques, bicicletas e patinetes, treinos, veleiro, Trenzinhos da Alegria |
+| 🍤 **Polos gastronômicos** | Varjota, Beira-Mar e Meireles, Mercado dos Peixes, Quinta-feira do Caranguejo, Sabiaguaba, Lago Jacarey, Tapioqueiras |
+| 🏙️ **Fortaleza hoje** | Economia, ITA em Fortaleza, cabos de fibra óptica, clima e mês dos ventos |
 
-🗺️ O que você encontra no site
-<br><br><br>
+---
 
+## ✨ FUNCIONALIDADES
 
+- 🌎 **6 idiomas:** português, inglês e espanhol (completos), mais francês, chinês e hindi (interface e títulos)
+- ❤️ **Favoritos** salvos no próprio navegador, sem cadastro
+- 🕒 **Informações práticas:** horário, entrada, endereço e tempo de visita
+- 📍 **Links para o mapa** em cada lugar
+- 🌗 **Modo claro e escuro**
+- 🎵 **Música de fundo** com botão para silenciar
+- 📱 **Layout responsivo** para celular, tablet e computador
 
-🏛️ Pontos turísticos
+---
 
-Conheça lugares históricos e culturais, como:
+## 🛠️ TECNOLOGIAS
 
-Catedral Metropolitana de Fortaleza;
+**HTML5** (estrutura) · **CSS3** (visual e layout) · **JavaScript** (interatividade, dados e áudio)
 
-Theatro José de Alencar;
 
-Cineteatro São Luiz;
+---
 
-Fortaleza de Nossa Senhora da Assunção;
+## 📸 CRÉDITOS
 
-Centro Dragão do Mar de Arte e Cultura;
+- **Imagens:** retiradas da internet, exceto a foto do autor.
+- **Músicas:** *Forró Lo-Fi*, do canal Sô Fia Lo-fi Sertão, e *Suspense*, do canal Legends Realm, ambos do YouTube.
+- **Textos:** informações reunidas de reportagens e fontes públicas, reescritas pelo autor.
 
-Ponte dos Ingleses e Ponte Metálica.
+---
 
+## 🎯 OBJETIVO
 
+Valorizar Fortaleza por meio da tecnologia, reunindo informações turísticas, históricas e culturais em um só lugar, e mostrando também o que muitas vezes passa despercebido.
 
-<br><br><br>
-📚 Origem e história
+---
 
-Descubra acontecimentos e características que ajudaram a construir a identidade de Fortaleza e do Ceará, incluindo:
-
-A origem do nome Fortaleza e o lema do brasão;
-
-A história da Praça dos Mártires, conhecida como Passeio Público;
-
-Iracema e suas representações na cidade;
-
-A seca e seus impactos no crescimento de Fortaleza;
-
-A história da Terra da Luz e a abolição da escravidão no Ceará;
-
-Os retirantes e os campos de concentração;
-
-A influência da maresia na Praia do Futuro.
-
-
-
-<br><br><br>
-🛍️ Compras e feiras
-
-Explore espaços tradicionais de comércio, artesanato e confecção, como:
-
-Mercado Central;
-
-Emcetur — Centro de Turismo do Ceará;
-
-Centro Fashion;
-
-Feirinha de Artesanato;
-
-Feira da Madrugada.
-
-
-
-<br><br><br>
-🌊 O que fazer
-
-Encontre ideias para aproveitar a cidade e sua orla, com temas como:
-
-Passeios pelos espigões;
-
-Quiosques da orla;
-
-Aluguel de bicicletas e patinetes;
-
-Treinos com vista para o mar;
-
-Passeios de veleiro;
-
-Trenzinhos da Alegria.
-
-
-
-<br><br><br>
-🍤 Polos gastronômicos
-
-Conheça regiões e espaços associados à gastronomia local, incluindo:
-
-Polo da Varjota;
-
-Beira-Mar e Meireles;
-
-Mercado dos Peixes;
-
-Quinta-feira do Caranguejo;
-
-Polo da Sabiaguaba;
-
-Polo do Lago Jacarey;
-
-Centro das Tapioqueiras.
-
-
-<br><br><br>
-🏙️ Fortaleza hoje
-
-O site também aborda aspectos contemporâneos da cidade, como sua economia, o projeto do ITA em Fortaleza, a infraestrutura de cabos de fibra óptica e as características climáticas que influenciam o cotidiano local.
-
-
-<br><br><br>
-✨ Funcionalidades
-
-Conteúdo organizado por categorias temáticas;
-
-Descrições de locais e curiosidades históricas;
-
-Links para consultar os lugares no mapa;
-
-Conteúdo em diferentes idiomas, incluindo português, inglês, espanhol, francês, chinês e hindi;
-
-Recursos de navegação e organização das informações;
-
-Informações práticas e recurso de favoritos.
-
-
-<br><br><br>
-🛠️ Tecnologias utilizadas
-
-HTML5: estrutura e organização do conteúdo;
-
-CSS3: apresentação visual, layout e estilos;
-
-JavaScript: interatividade, organização dos dados e funcionalidades da interface.
-
-
-<br><br><br>
-🎯 Objetivo
-
-Valorizar Fortaleza por meio da tecnologia, reunindo informações turísticas, históricas e culturais em um só lugar. O projeto busca facilitar a descoberta da cidade, destacar sua identidade e apresentar tanto seus pontos conhecidos quanto aspectos que muitas vezes passam despercebidos.
-
-
-<br><br><br><br><br><br>
-👨‍💻 Autor
-
-Criado por Mario Duarte.
+<p align="center">
+  👨‍💻 Criado por <b>Mário Duarte</b>
+</p>
